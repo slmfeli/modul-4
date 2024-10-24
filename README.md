@@ -1,1 +1,3 @@
-# modul-4
+1. program ini melakukan perhitungan rumus kombinasi dan permutasi dimana didalam program terdapat prosedur faktorial, permutasi dan kombinasi juga main, ketiga prosedur yang akan dipanggil kedalam main menyimpan rumus untuk menghitung masing-masing kebutuhan.
+2. peogram ini melakukan pencarian pemenang kompetisi pemrograman dengan perhitungan pengerjaan soal paling banyak dalam waktu paling singkat dengan prosedur didalam program memuat rumus hitung skor.
+3. program ini melakukan mencetak deret bilangan jika n bilangan genap maka suku berikutnya menggunakan rumus 1/2n, jika ganjil maka suku selanjutnya menggunakan rumus 3n+1 hingga suku terakhir bernilai 1 pada program menggunakan prosedur.
